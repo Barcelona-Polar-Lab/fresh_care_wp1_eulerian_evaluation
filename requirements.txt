@@ -1,0 +1,20 @@
+# Core scientific stack
+numpy>=1.24
+pandas>=2.0
+xarray>=2023.1
+netCDF4>=1.6
+scipy>=1.11
+
+# Spatial / GIS
+geopandas>=0.14
+shapely>=2.0
+
+# Plotting
+matplotlib>=3.7
+cartopy>=0.22
+
+# Taylor diagrams
+skill_metrics>=1.1
+
+# Parquet support (required by pandas for .parquet I/O)
+pyarrow>=14.0
