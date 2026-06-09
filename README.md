@@ -1,4 +1,4 @@
-# WP1 FRESH-CARE — Classic Evaluation of Surface Current Products
+# WP1 FRESH-CARE — Eulerian Evaluation of Surface Current Products
 
 This repository contains the code used to evaluate satellite-derived ocean surface
 current products against in-situ drifter observations from the
@@ -393,9 +393,9 @@ See `requirements.txt` for the full pinned list. Core packages:
 
 ---
 
-## Author
+## Authors
 
-**r0squete**  
+**r0squete** and **jcrespinesteve**
 Contributions and issue reports are welcome via GitHub Issues.
 
 ---
