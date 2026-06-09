@@ -27,7 +27,7 @@ The workflow is part of Work Package 1 (WP1) of the **FRESH-CARE** project.
 6. [Input data](#input-data)
 7. [Adding a new current product](#adding-a-new-current-product)
 8. [Dependencies](#dependencies)
-9. [Author](#author)
+9. [Authors](#authors)
 10. [License](#license)
 
 ---
